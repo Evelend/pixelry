@@ -1,9 +1,8 @@
-## CHANGELOG 1.5
+### PIXELRY 1.5
 - Ported to GM:S
 
----
 
-## CHANGELOG 1.4.5
+### PIXELRY 1.4.5
 
 - "Pixelry" and number of version display on the window caption.
 - Main menu more efficient.
@@ -39,9 +38,8 @@
 - Falling spears and shild when you kill your enemy.
 - Other minor changes.
 
----
 
-## CHANGELOG 1.4.4
+### PIXELRY 1.4.4
 
 - Shop minigame description in Spanish is fixed.
 - Colours of the horse are now editable
@@ -69,9 +67,8 @@
 
 - Many other non reported changes.
 
----
 
-## CHANGELOG 1.4.3
+### PIXELRY 1.4.3
 
 - Mistakes removed from intro story.
 - Line break fixed on the guard description.
@@ -98,10 +95,7 @@
 - Many other things fixed/added and minor bug fixes.
 
 
----
-
-
-## CHANGELOG 1.4.2
+### PIXELRY 1.4.2
 
 Added:
 - Full screen pressing F4.
